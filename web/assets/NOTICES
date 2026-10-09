@@ -1970,7 +1970,9 @@ file_selector_linux
 file_selector_macos
 file_selector_platform_interface
 file_selector_windows
+flutter_shaders
 google_fonts
+webview_flutter_wkwebview
 
 Copyright 2013 The Flutter Authors
 
@@ -5837,7 +5839,6 @@ SOFTWARE.
 --------------------------------------------------------------------------------
 flutter_lints
 flutter_plugin_android_lifecycle
-flutter_shaders
 go_router
 image_picker_for_web
 image_picker_linux
@@ -5872,7 +5873,6 @@ video_player_platform_interface
 video_player_web
 webview_flutter
 webview_flutter_platform_interface
-webview_flutter_wkwebview
 xdg_directories
 
 Copyright 2013 The Flutter Authors. All rights reserved.
@@ -5904,7 +5904,6 @@ SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 --------------------------------------------------------------------------------
 flutter_secure_storage
 flutter_secure_storage_linux
-flutter_secure_storage_macos
 flutter_secure_storage_platform_interface
 flutter_secure_storage_web
 flutter_secure_storage_windows
@@ -32950,7 +32949,7 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 --------------------------------------------------------------------------------
 webview_flutter_android
 
-Copyright 2013 The Flutter Authors. All rights reserved.
+Copyright 2013 The Flutter Authors
 
 Redistribution and use in source and binary forms, with or without modification,
 are permitted provided that the following conditions are met:
